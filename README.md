@@ -30,7 +30,7 @@ AboutMe = {
 
 - 🌱 I’m currently learning **Flutter,SpringBoot**
 
-- 👨‍💻 All of my projects are available at [Projects](devendrapatil.in/#portfolio)
+- 👨‍💻 All of my projects are available at [Projects](https://devendrapatil.in/#portfolio)
 
 - 💬 Ask me about **Java,Django,React,AWS**
 
